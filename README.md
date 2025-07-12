@@ -3,7 +3,7 @@
 ## Sales Report :
 
 - **Project objective:**
-  1. Customer_ Performance_ Report.pdf
+  1. [Customer Performance Report](Customer_Performance_Report.pdf)
   2. [Market Performance vs Target Report](Market_Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -46,4 +46,3 @@
 - Designing user-centric reports with empathy in mind.
 - Optimization of report generation through meticulous fine-tuning.
 - Developing a systematic approach to devising a report building plan.
-
