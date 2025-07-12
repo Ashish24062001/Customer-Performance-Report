@@ -1,5 +1,4 @@
 # Customer-Performance-Reports
-
 ## Sales Report :
 
 - **Project objective:**
