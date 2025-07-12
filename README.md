@@ -1,4 +1,4 @@
-# Customer-Performance-Reports
+# Customer-Performance-Report
 
 ## Sales Report :
 
