@@ -1,27 +1,29 @@
 # Customer-Performance-Reports
+
 ## Sales Report :
 
-- **Project objective:**
-  1. [Customer Performance Report](Customer_%20Performance_%20Report.pdf)
-  2. [Market Performance vs Target Report](Market_%20Performance%20vs%20Target%20Report.pdf
-)
+**Project objective:**
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+1. [Customer Performance Report](Customer_Performance_Report.pdf)
+2. [Market Performance vs Target Report](Market_Performance%20vs%20Target%20Report.pdf)
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+**Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+**Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+**Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 ---
 
 ## Finance Report :
 
-- **Project objective:**
-  1. [P&L Statement by Fiscal Year](P%26L%20_Statement%20by%20Fiscal%20Year.pdf)
-  2. [P&L Statement by Markets](P%26L_%20Statement%20by%20Markets.pdf)
-  3. [P&L Statement by Months](P%26L_%20Statement%20by%20Months.pdf)
+**Project objective:**
 
-- **Purpose of financial analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+1. [P&L Statement by Fiscal Year](P&L_Statement%20by%20Fiscal%20Year.pdf)  
+2. [P&L Statement by Markets](P&L_Statement%20by%20Markets.pdf)  
+3. [P&L Statement by Months](P&L_Statement%20by%20Months.pdf)
+
+ **Purpose of financial analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing finance data:** Aid in benchmarking against industry peers and previous periods. Foundation for budgeting and forecasting.
 
