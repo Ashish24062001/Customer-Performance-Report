@@ -18,9 +18,9 @@
 ## Finance Report :
 
 - **Project objective:**
-  1. [P&L Statement by Fiscal Year](P&L_Statement%20by%20Fiscal%20Year.pdf)
-  2. [P&L Statement by Markets](P&L_Statement%20by%20Markets.pdf)
-  3. [P&L Statement by Months](P&L_Statement%20by%20Months.pdf)
+  1. [P&L Statement by Fiscal Year](P%26L%20_Statement%20by%20Fiscal%20Year.pdf)
+  2. [P&L Statement by Markets](P%26L_%20Statement%20by%20Markets.pdf)
+  3. [P&L Statement by Months](P%26L_%20Statement%20by%20Months.pdf)
 
 - **Purpose of financial analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
